@@ -1,2 +1,2 @@
-# Python-guessing-game
-Building a basic word guessing game
+# Learning Paths Content
+Basic projects in different languages for beginners.
